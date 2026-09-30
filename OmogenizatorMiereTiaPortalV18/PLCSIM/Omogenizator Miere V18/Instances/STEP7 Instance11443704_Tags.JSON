@@ -1,0 +1,1447 @@
+[
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Finalizare Program",
+    "Address": {
+      "OffsetString": "34.0",
+      "BitOffset": 272,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Temporizare Setata Scursa",
+    "Address": {
+      "OffsetString": "34.1",
+      "BitOffset": 273,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Alarma Usi Deschise",
+    "Address": {
+      "OffsetString": "12",
+      "BitOffset": 96,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Start/Stop",
+    "Address": {
+      "OffsetString": "34.2",
+      "BitOffset": 274,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Setare Temperatura Manual",
+    "Address": {
+      "OffsetString": "34.3",
+      "BitOffset": 275,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Mod Automat",
+    "Address": {
+      "OffsetString": "34.4",
+      "BitOffset": 276,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Counter Temporizator Invers",
+    "Address": {
+      "OffsetString": "14",
+      "BitOffset": 112,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Setare Temporizator",
+    "Address": {
+      "OffsetString": "16",
+      "BitOffset": 128,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Temperatura Setata",
+    "Address": {
+      "OffsetString": "18",
+      "BitOffset": 144,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Frecventa Mixer",
+    "Address": {
+      "OffsetString": "20",
+      "BitOffset": 160,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Alarma  Senzor Temperatura",
+    "Address": {
+      "OffsetString": "22",
+      "BitOffset": 176,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Alarma Generala",
+    "Address": {
+      "OffsetString": "34.5",
+      "BitOffset": 277,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Alarma Senzor Presiune",
+    "Address": {
+      "OffsetString": "24",
+      "BitOffset": 192,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Alarma Mixer",
+    "Address": {
+      "OffsetString": "26",
+      "BitOffset": 208,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Counter Nivel Presiune",
+    "Address": {
+      "OffsetString": "28",
+      "BitOffset": 224,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Usi inchise",
+    "Address": {
+      "OffsetString": "34.6",
+      "BitOffset": 278,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Valoare Analog Intrare Temperatura",
+    "Address": {
+      "OffsetString": "30",
+      "BitOffset": 240,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Valoare Analog Intrare Miere",
+    "Address": {
+      "OffsetString": "32",
+      "BitOffset": 256,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Nivel Temperatura Grade",
+    "Address": {
+      "OffsetString": "4",
+      "BitOffset": 32,
+      "Area": 3,
+      "BitWidth": 32,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Nivel Miere in Kg",
+    "Address": {
+      "OffsetString": "8",
+      "BitOffset": 64,
+      "Area": 3,
+      "BitWidth": 32,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Buton Motor",
+    "Address": {
+      "OffsetString": "34.7",
+      "BitOffset": 279,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Semafor Mixer",
+    "Address": {
+      "OffsetString": "35.0",
+      "BitOffset": 280,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valori Temporare.Pornire Mixer Manual",
+    "Address": {
+      "OffsetString": "35.1",
+      "BitOffset": 281,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 1,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.CU",
+    "Address": {
+      "OffsetString": "8.0",
+      "BitOffset": 64,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.CD",
+    "Address": {
+      "OffsetString": "8.1",
+      "BitOffset": 65,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.R",
+    "Address": {
+      "OffsetString": "8.2",
+      "BitOffset": 66,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.LD",
+    "Address": {
+      "OffsetString": "8.3",
+      "BitOffset": 67,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.QU",
+    "Address": {
+      "OffsetString": "8.4",
+      "BitOffset": 68,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.QD",
+    "Address": {
+      "OffsetString": "8.5",
+      "BitOffset": 69,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.PV",
+    "Address": {
+      "OffsetString": "10",
+      "BitOffset": 80,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Temperatura_Crestere_DB.CV",
+    "Address": {
+      "OffsetString": "12",
+      "BitOffset": 96,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 2,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.CU",
+    "Address": {
+      "OffsetString": "8.0",
+      "BitOffset": 64,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.CD",
+    "Address": {
+      "OffsetString": "8.1",
+      "BitOffset": 65,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.R",
+    "Address": {
+      "OffsetString": "8.2",
+      "BitOffset": 66,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.LD",
+    "Address": {
+      "OffsetString": "8.3",
+      "BitOffset": 67,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.QU",
+    "Address": {
+      "OffsetString": "8.4",
+      "BitOffset": 68,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.QD",
+    "Address": {
+      "OffsetString": "8.5",
+      "BitOffset": 69,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.PV",
+    "Address": {
+      "OffsetString": "10",
+      "BitOffset": 80,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Mixer_DB.CV",
+    "Address": {
+      "OffsetString": "12",
+      "BitOffset": 96,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 3,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.CU",
+    "Address": {
+      "OffsetString": "8.0",
+      "BitOffset": 64,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.CD",
+    "Address": {
+      "OffsetString": "8.1",
+      "BitOffset": 65,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.R",
+    "Address": {
+      "OffsetString": "8.2",
+      "BitOffset": 66,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.LD",
+    "Address": {
+      "OffsetString": "8.3",
+      "BitOffset": 67,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.QU",
+    "Address": {
+      "OffsetString": "8.4",
+      "BitOffset": 68,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.QD",
+    "Address": {
+      "OffsetString": "8.5",
+      "BitOffset": 69,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.PV",
+    "Address": {
+      "OffsetString": "10",
+      "BitOffset": 80,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Temporizator_Mixer_DB.CV",
+    "Address": {
+      "OffsetString": "12",
+      "BitOffset": 96,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 4,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.CU",
+    "Address": {
+      "OffsetString": "8.0",
+      "BitOffset": 64,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.CD",
+    "Address": {
+      "OffsetString": "8.1",
+      "BitOffset": 65,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.R",
+    "Address": {
+      "OffsetString": "8.2",
+      "BitOffset": 66,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.LD",
+    "Address": {
+      "OffsetString": "8.3",
+      "BitOffset": 67,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.QU",
+    "Address": {
+      "OffsetString": "8.4",
+      "BitOffset": 68,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.QD",
+    "Address": {
+      "OffsetString": "8.5",
+      "BitOffset": 69,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.PV",
+    "Address": {
+      "OffsetString": "10",
+      "BitOffset": 80,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "IEC_Counter_Nivel_Presiune_DB.CV",
+    "Address": {
+      "OffsetString": "12",
+      "BitOffset": 96,
+      "Area": 3,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": 6,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Usi Inchise_DB.Usa jos",
+    "Address": {
+      "OffsetString": "4.0",
+      "BitOffset": 32,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 5,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Usi Inchise_DB.Usa sus",
+    "Address": {
+      "OffsetString": "4.1",
+      "BitOffset": 33,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 5,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Usi Inchise_DB.Usi inchise",
+    "Address": {
+      "OffsetString": "4.2",
+      "BitOffset": 34,
+      "Area": 3,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": 5,
+      "IsOptimizedDb": true,
+      "DataBlockArea": 1
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Avarie mixer",
+    "Address": {
+      "OffsetString": "0.3",
+      "BitOffset": 3,
+      "Area": 0,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Buton urgenta",
+    "Address": {
+      "OffsetString": "0.0",
+      "BitOffset": 0,
+      "Area": 0,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Usa 1",
+    "Address": {
+      "OffsetString": "0.1",
+      "BitOffset": 1,
+      "Area": 0,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Usa 2",
+    "Address": {
+      "OffsetString": "0.2",
+      "BitOffset": 2,
+      "Area": 0,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Senzor temperatura",
+    "Address": {
+      "OffsetString": "64",
+      "BitOffset": 512,
+      "Area": 0,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Senzor nivel",
+    "Address": {
+      "OffsetString": "66",
+      "BitOffset": 528,
+      "Area": 0,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Mixer",
+    "Address": {
+      "OffsetString": "0.0",
+      "BitOffset": 0,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Viteza Mixer",
+    "Address": {
+      "OffsetString": "258",
+      "BitOffset": 2064,
+      "Area": 1,
+      "BitWidth": 16,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_0",
+    "Address": {
+      "OffsetString": "257.2",
+      "BitOffset": 2058,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_1",
+    "Address": {
+      "OffsetString": "256.1",
+      "BitOffset": 2049,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_2",
+    "Address": {
+      "OffsetString": "256.2",
+      "BitOffset": 2050,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_3",
+    "Address": {
+      "OffsetString": "256.3",
+      "BitOffset": 2051,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_4",
+    "Address": {
+      "OffsetString": "256.4",
+      "BitOffset": 2052,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_5",
+    "Address": {
+      "OffsetString": "256.5",
+      "BitOffset": 2053,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_6",
+    "Address": {
+      "OffsetString": "256.6",
+      "BitOffset": 2054,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Autorizatie_7",
+    "Address": {
+      "OffsetString": "256.7",
+      "BitOffset": 2055,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Motor Pornit",
+    "Address": {
+      "OffsetString": "256.0",
+      "BitOffset": 2048,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Valva incalzire",
+    "Address": {
+      "OffsetString": "0.1",
+      "BitOffset": 1,
+      "Area": 1,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_Byte",
+    "Address": {
+      "OffsetString": "0",
+      "BitOffset": 0,
+      "Area": 2,
+      "BitWidth": 8,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_10Hz",
+    "Address": {
+      "OffsetString": "0.0",
+      "BitOffset": 0,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_5Hz",
+    "Address": {
+      "OffsetString": "0.1",
+      "BitOffset": 1,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_2.5Hz",
+    "Address": {
+      "OffsetString": "0.2",
+      "BitOffset": 2,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_2Hz",
+    "Address": {
+      "OffsetString": "0.3",
+      "BitOffset": 3,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_1.25Hz",
+    "Address": {
+      "OffsetString": "0.4",
+      "BitOffset": 4,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_1Hz",
+    "Address": {
+      "OffsetString": "0.5",
+      "BitOffset": 5,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_0.625Hz",
+    "Address": {
+      "OffsetString": "0.6",
+      "BitOffset": 6,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  },
+  {
+    "ChildTags": [],
+    "Name": "Clock_0.5Hz",
+    "Address": {
+      "OffsetString": "0.7",
+      "BitOffset": 7,
+      "Area": 2,
+      "BitWidth": 1,
+      "IsPeripheral": false,
+      "DataBlockNumber": -1,
+      "IsOptimizedDb": false,
+      "DataBlockArea": 0
+    },
+    "IsStructContainer": false,
+    "IsDb": false,
+    "ArrayMember": false
+  }
+]

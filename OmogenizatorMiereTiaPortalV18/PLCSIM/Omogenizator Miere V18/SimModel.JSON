@@ -1,0 +1,10 @@
+[
+  {
+    "IsSelectedSimModel": true,
+    "Label": "SimView_1",
+    "IoContainerModel": {
+      "SimulationItemModelList": []
+    },
+    "Version": "18.00.00.00"
+  }
+]
